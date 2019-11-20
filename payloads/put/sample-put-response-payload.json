@@ -1,0 +1,6 @@
+{
+    "id": "001",
+    "method": "put",
+    "message": "This is the response for method PUT",
+    "api": "/rest/sample/put"
+}

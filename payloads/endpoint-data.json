@@ -1,0 +1,22 @@
+[
+    {
+      "method":"get",
+      "endpoint":"/rest/sample/get",
+      "responseFile":"payloads/get/sample-get-response-payload.json"
+    },
+    {
+      "method":"post",
+      "endpoint":"/rest/sample/post",
+      "responseFile":"payloads/post/sample-post-response-payload.json"
+    },
+    {
+      "method":"put",
+      "endpoint":"/rest/sample/put",
+      "responseFile":"payloads/put/sample-put-response-payload.json"
+    },
+    {
+      "method":"delete",
+      "endpoint":"/rest/sample/delete",
+      "responseFile":"payloads/delete/sample-delete-response-payload.json"
+    }
+    ]

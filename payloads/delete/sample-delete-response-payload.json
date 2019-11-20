@@ -1,0 +1,6 @@
+{
+    "id": "001",
+    "method": "delete",
+    "message": "This is the response for method DELETE",
+    "api": "/rest/sample/delete"
+}

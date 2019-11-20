@@ -1,0 +1,6 @@
+{
+    "id": "001",
+    "method": "post",
+    "message": "This is the response for method POST",
+    "api": "/rest/sample/post"
+}
