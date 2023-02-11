@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jmagaru/nodejs-api-mock-server#readme",
   "dependencies": {
-    "json-server": "^0.15.1",
+    "json-server": "^0.17.1",
     "nodeify": "^1.0.1",
     "promise": "^8.0.3",
     "q": "^1.5.1"
